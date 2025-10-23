@@ -11,11 +11,12 @@ This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The
 - Display video information (title, description, uploader, views, likes, etc.)
 - Responsive design for various devices
 
-Website Link: https://atinder11.github.io/Youtube-Clone/
+Website Link: https://gentube.github.io
+
+
 ## Demo Video:
 
-
-https://github.com/atinder11/Youtube-Clone/assets/111070211/e8ecdcc1-a761-4bb7-a0ea-92c600688548
+(https://gentube.github.io)
 
 
 
