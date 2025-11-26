@@ -1,0 +1,30 @@
+{
+  "name": "Gentube",
+  "short_name": "Gentube",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "share_target": {
+    "action": "index.html",
+    "method": "GET",
+    "params": {
+      "text": "url"
+    }
+  },
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+},
+"icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
